@@ -1,0 +1,153 @@
+header{
+    /* border:2px solid blue;*/
+     height:80px;
+     width:100%;
+     background-color: rgb(175, 124, 108);
+     margin: auto;
+ }
+ #logo{
+     height: 20px;
+     float:left;
+     margin: 1%;
+     font-size: 40px;
+     color:rgb(255, 255, 240)
+ }
+ #social{
+     float: right;
+     margin: 15px;
+ }
+ .images{
+     height:50px;
+     margin:3px;
+     /*border-radius: 5px;*/
+     
+ }
+ #search{
+     /*border:2px groove aqua;*/
+     height:400px;
+     width:100%;
+     background-image: url(zomato_4.jpg);
+     background-repeat: no-repeat;
+     background-size: 100% 400px;
+ }
+ #brand{
+     height:98px;
+     width:17%;
+     background-color: aliceblue;
+     position:absolute;
+     margin-left:42%;
+     margin-top: 3%;
+     background-color: rgb(228, 66, 26);
+ }
+ #brandname{
+     margin-left:580px;
+     margin-top:4%;
+     color: aliceblue;
+     position: absolute;
+     font-size: 52px;
+     font-style: italic ;
+ 
+ }
+ #longtext{
+     position: absolute;
+     margin-top: 12%;
+     margin-left: 23%;
+     color: black;
+     font-size: 64px;
+ 
+ 
+ }
+ #option{
+     height:50px;
+     width:70%;
+     /*border:2px solid black;*/
+     margin-left: 20%;
+     margin-top: 22%;
+     position: absolute;
+ }
+ select{
+     height: 50px;
+     width:37%;
+     /*border:2px solid black;*/
+     margin-left:0px;
+     margin-top: 0px;
+     font-size: 20px;
+     text-align: center;
+     
+ }
+ 
+ #select1{
+     width:58%;
+     margin-left:20px;
+     margin-top: 10px;
+ }
+ 
+ #quicksearch{
+    /* border:2px groove hsl(135, 100%, 50%);*/
+     height:600px;
+     width:80%;
+     background-color: rgb(129, 117, 111);
+     margin-left: 10%;
+     margin-top: 2%;
+     margin-bottom: 2%;
+     display: inline-block;
+ 
+ }
+ #heading1{
+     margin-top: 1%;
+     margin-left: 1%;
+     position: absolute;
+     font-size: 30px;
+ }
+ #subheading{
+     margin-left: 1%;
+     line-height:7;
+     position: absolute;
+     font-size: 18px;
+ }
+ .subcontainer{
+     height:180px;
+     width:30%;
+     border:2px solid black;
+     margin-top: 8%;
+     position:absolute;
+     margin-left: 1%;
+ 
+ }
+ .component1{
+     height:180px;
+     width:54%;
+     float:left;
+ 
+ }
+ .imgclass{
+     height:180px;
+     width:100%;
+ }
+ .subcontainer2{
+     width:40%;
+     float:left;
+ }
+ a{
+     text-decoration: none;
+     color:black;
+     font-size: 25px;
+ }
+ .component2{
+     float:left;
+     width:40%;
+     
+     margin-top: 32%;
+     margin-left: 4%;
+ }
+ .component3{
+     float: left;
+     margin-left: 5%;
+     font-size: 20px;
+ }
+ footer{
+     border:2px groove rgb(255, 217, 0);
+     height:300px;
+     width:100%; 
+    
+ }
